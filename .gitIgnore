@@ -1,0 +1,10 @@
+.vscode
+# hardhat
+artifact
+cache
+deployments
+
+node_modules
+
+.env
+node_modules
